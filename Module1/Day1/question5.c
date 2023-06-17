@@ -5,7 +5,6 @@
    You can consider the below function prototype,
     - bit_operations(int num, int oper_type);*/
 
-
 #include <stdio.h>
 #include <stdint.h>
 
