@@ -1,4 +1,4 @@
-/*4. Find the largest number by deleting single digit in a 4 digit number 5872 - 872, 9856 - 986
+/*3. Find the largest number by deleting single digit in a 4 digit number 5872 - 872, 9856 - 986
 
 Concepts to be used.
 - Loops
